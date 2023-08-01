@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marianacosta-3
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m a beginner
+- 🌱 I’m currently learning Data Science
 - 📫 marianacosta.dev3@gmail.com
 
 <!---
